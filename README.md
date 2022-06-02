@@ -13,11 +13,11 @@ There are following challenges and their solutions in this course of the special
 
 ### Algorithmic Warm-up
 
--   [Fibonacci Number](/1-algorithmic-toolbox/week2_algorithmic_warmup/1_fibonacci_number/fibonacci.js)
--   [Last Digit of a Large Fibonacci Number](/1-algorithmic-toolbox/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.js)
--   [Greatest Common Divisor](/1-algorithmic-toolbox/week2_algorithmic_warmup/3_greatest_common_divisor/gcd.js)
--   [Least Common Multiple](/1-algorithmic-toolbox/week2_algorithmic_warmup/4_least_common_multiple/lcm.js)
--   [Fibonacci Number Again](/1-algorithmic-toolbox/week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.js)
--   [Last Digit of the Sum of Fibonacci Numbers](/1-algorithmic-toolbox/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum.js)
--   [Last Digit of the Sum of Fibonacci Numbers Again](/1-algorithmic-toolbox/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.js)
--   [Last Digit of the Sum of Squares of Fibonacci Numbers](/1-algorithmic-toolbox/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_of_squares.js)
+-   [Fibonacci Number](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci.js)
+-   [Last Digit of a Large Fibonacci Number](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci_last_digit.js)
+-   [Greatest Common Divisor](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/gcd.js)
+-   [Least Common Multiple](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/lcm.js)
+-   [Fibonacci Number Again](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci_huge.js)
+-   [Last Digit of the Sum of Fibonacci Numbers](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci_sum_last_digit.js)
+-   [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci_partial_sum.js)
+-   [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci_sum_squares.js)
