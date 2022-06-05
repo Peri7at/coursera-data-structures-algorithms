@@ -2,7 +2,7 @@
 
 This repository contains Javascript solutions for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms). All the assignments can be found inside the course weeks directory.
 
-## [Algorithmic Toolbox](/1-algorithmic-toolbox/)
+## [Algorithmic Toolbox](https://github.com/Peri7at/coursera-data-structures-algorithms)
 
 There are following challenges and their solutions in this course of the specialization: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. 
 
@@ -21,3 +21,13 @@ There are following challenges and their solutions in this course of the special
 -   [Last Digit of the Sum of Fibonacci Numbers](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci_sum_last_digit.js)
 -   [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci_partial_sum.js)
 -   [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week2_algorithmic_warmup/fibonacci_sum_squares.js)
+
+### Greedy Algorithms
+
+-   [Money Change](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week3_greedy_algorithms/change.js)
+-   [Maximum Value of the Loot](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week3_greedy_algorithms/fractional_knapsack.js)
+-   [Car Fueling](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week3_greedy_algorithms/car_fueling.js)
+
+### Divide and Conquer
+
+-   [Binary Search](https://github.com/Peri7at/coursera-data-structures-algorithms/blob/main/1_algorithmic_toolbox/week4_divide_and_conquer/1_binary_search.js)
