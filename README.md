@@ -1,6 +1,6 @@
 # Coursera | Data Structures and Algorithms Specialization
 
-This repository contains Javascript solutions for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms). All the assignments can be found inside the course weeks directory.
+This repository contains my Javascript solutions for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms). All the assignments can be found inside the course weeks directory.
 
 ## [Algorithmic Toolbox](https://github.com/Peri7at/coursera-data-structures-algorithms)
 
